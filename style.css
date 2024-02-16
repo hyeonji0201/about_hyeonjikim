@@ -28,3 +28,12 @@ ol{
 
 @media (orientation: landscape) {
 }
+@media(max-width: 800px){
+    #grid{
+        display: block;
+    }
+    p{
+        border-right: none;
+        border-top: 1px solid gray;
+    }
+}
