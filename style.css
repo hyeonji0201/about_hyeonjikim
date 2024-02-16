@@ -16,7 +16,7 @@ ol{
     display: grid;
     grid-template-columns: 400px 1fr;
 }
-@media(max-width: 800px){
+@media(max-width: 1000px){
     #grid{
         display: block;
     }
